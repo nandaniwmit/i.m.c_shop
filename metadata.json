@@ -1,0 +1,6 @@
+{
+  "name": "I.M.C SHOP",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs. Serving Gaya, Bihar with prescription drugs, medical devices, wellness products, and 24/7 emergency pharmacy support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

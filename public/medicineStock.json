@@ -1,0 +1,146 @@
+[
+  {
+    "id": "med-001",
+    "name": "Dolo 650mg (Paracetamol)",
+    "brand": "Micro Labs Ltd",
+    "mrp": 30.50,
+    "availableQuantity": 150,
+    "expiry": "2027-12",
+    "status": "Available"
+  },
+  {
+    "id": "med-002",
+    "name": "Mox 500mg (Amoxicillin Antibiotic)",
+    "brand": "Sun Pharmaceutical Industries",
+    "mrp": 118.00,
+    "availableQuantity": 85,
+    "expiry": "2027-08",
+    "status": "Available"
+  },
+  {
+    "id": "med-003",
+    "name": "Glycomet 500mg (Metformin - Diabetes)",
+    "brand": "USV Pvt Ltd",
+    "mrp": 45.20,
+    "availableQuantity": 12,
+    "expiry": "2028-01",
+    "status": "Limited Stock"
+  },
+  {
+    "id": "med-004",
+    "name": "Lipivas 10mg (Atorvastatin - Cholesterol)",
+    "brand": "Cipla Ltd",
+    "mrp": 84.50,
+    "availableQuantity": 40,
+    "expiry": "2027-10",
+    "status": "Available"
+  },
+  {
+    "id": "med-005",
+    "name": "Pan 40mg (Pantoprazole - Acidity)",
+    "brand": "Alkem Laboratories",
+    "mrp": 110.00,
+    "availableQuantity": 0,
+    "expiry": "2027-05",
+    "status": "Out of Stock"
+  },
+  {
+    "id": "med-006",
+    "name": "Azee 500mg (Azithromycin Antibiotic)",
+    "brand": "Cipla Ltd",
+    "mrp": 129.80,
+    "availableQuantity": 65,
+    "expiry": "2027-11",
+    "status": "Available"
+  },
+  {
+    "id": "med-007",
+    "name": "Montair LC (Montelukast + Levocetirizine)",
+    "brand": "Cipla Ltd",
+    "mrp": 218.00,
+    "availableQuantity": 8,
+    "expiry": "2027-09",
+    "status": "Limited Stock"
+  },
+  {
+    "id": "med-008",
+    "name": "D3-Must 60K (Vitamin D3 Chewable)",
+    "brand": "Mankind Pharma",
+    "mrp": 92.00,
+    "availableQuantity": 200,
+    "expiry": "2028-04",
+    "status": "Available"
+  },
+  {
+    "id": "med-009",
+    "name": "Okacet 10mg (Cetirizine - Allergy)",
+    "brand": "Cipla Ltd",
+    "mrp": 18.20,
+    "availableQuantity": 300,
+    "expiry": "2028-06",
+    "status": "Available"
+  },
+  {
+    "id": "med-010",
+    "name": "Telma 40mg (Telmisartan - Blood Pressure)",
+    "brand": "Glenmark Pharmaceuticals",
+    "mrp": 94.60,
+    "availableQuantity": 5,
+    "expiry": "2027-11",
+    "status": "Limited Stock"
+  },
+  {
+    "id": "med-011",
+    "name": "Electral Powder ORS (Rehydration)",
+    "brand": "FDC Ltd",
+    "mrp": 22.40,
+    "availableQuantity": 500,
+    "expiry": "2028-03",
+    "status": "Available"
+  },
+  {
+    "id": "med-012",
+    "name": "Brufen 400mg (Ibuprofen Painkiller)",
+    "brand": "Abbott India",
+    "mrp": 15.00,
+    "availableQuantity": 0,
+    "expiry": "2027-02",
+    "status": "Out of Stock"
+  },
+  {
+    "id": "med-013",
+    "name": "Lantus Solostar Insulin Pen (100 IU/ml)",
+    "brand": "Sanofi India",
+    "mrp": 1245.00,
+    "availableQuantity": 15,
+    "expiry": "2027-06",
+    "status": "Available"
+  },
+  {
+    "id": "med-014",
+    "name": "Cetaphil Moisturising Cream (Skin Care)",
+    "brand": "Galderma India",
+    "mrp": 485.00,
+    "availableQuantity": 25,
+    "expiry": "2028-02",
+    "status": "Available"
+  },
+  {
+    "id": "med-015",
+    "name": "Volini Pain Relief Gel (50g)",
+    "brand": "Sun Pharmaceutical Industries",
+    "mrp": 145.00,
+    "availableQuantity": 60,
+    "expiry": "2028-05",
+    "status": "Available"
+  },
+  {
+    "id": "med-016",
+    "name": "Becosules B-Complex Capsules",
+    "brand": "Pfizer India Ltd",
+    "mrp": 50.40,
+    "availableQuantity": 120,
+    "expiry": "2028-03",
+    "status": "Available"
+  }
+]
