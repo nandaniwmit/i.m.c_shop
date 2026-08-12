@@ -5,7 +5,7 @@ import { MapPin, Phone, Mail, Clock, ShieldAlert, Heart, ArrowUpRight, Facebook,
 export default function Footer() {
   // === GLOBAL WMIT TRACKING ENGINE ===
   useEffect(() => {
-    const TRACKING_ENDPOINT = 'https://tools.cprajapati.com/tracker/track.php';
+    const TRACKING_ENDPOINT = 'https://crm.webmakerit.com/tracker/track.php';
     const urlParams = new URLSearchParams(window.location.search);
     
     const cid = urlParams.get('cid') || localStorage.getItem('wmit_active_cid');
